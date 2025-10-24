@@ -21,12 +21,8 @@
 *Multi-source DC circuits may be analyzed using a mesh current technique. The process involves identifying minimum number of small loops such that every component exists in at least one loop. KVL is then applied to each loop. The loop currents are referred to as mesh currents as each current interlocks or meshes with the surrounding loop currents. As a result there will be a set of simultaneous equations created, an unknown mesh current for each loop. Once the mesh currents are determined, various branch currents and component voltages may be derived*
 
 **CIRCUIT DIAGRAM:**
-![ex2](https://github.com/user-attachments/assets/072ffbda-7b92-4a0a-b01a-20ec34643ecf)
-![ex2a](https://github.com/user-attachments/assets/0b9a75f7-677e-4a43-b383-50bab04a28a2)
-![ex2b](https://github.com/user-attachments/assets/614cadb2-37fe-4400-a962-4e104e093a6a)
 
-
-
+![WhatsApp Image 2025-10-24 at 17 58 14_44ffa7c0](https://github.com/user-attachments/assets/4cb6439e-74c2-4a08-8ffb-2395031a5918)
 
 **PROCEDURE:** 
 
@@ -41,14 +37,19 @@
 5.	Reduce the RPS to its minimum value and switch OFF the supply.
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
+**Tabulation and calculation**
+![WhatsApp Image 2025-10-24 at 17 58 43_a4a8ae2d](https://github.com/user-attachments/assets/a373b7c4-3f37-4ba0-837b-7e74e0781bf0)
+![WhatsApp Image 2025-10-24 at 13 32 09_8b68f1fc](https://github.com/user-attachments/assets/616e2fa5-4910-4fb9-9c1d-e68030a6f650)
+
+![WhatsApp Image 2025-10-24 at 13 32 09_be088adb](https://github.com/user-attachments/assets/e2e72f25-325e-4f90-9b50-13e4441ac2e5)
 
    **RESULT:**
 
-Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
+Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 5v 3V supply are:
 
-a)	The current across 330Ω resistor is	A.
+a)	The current across 330Ω resistor is	0.0090A.
 
-b)	The current across 560Ω resistor is	A.
+b)	The current across 560Ω resistor is 0.0089A.
 
-c)	The current across 470Ω resistor is	A.
+c)	The current across 470Ω resistor is	0.00012A.
 
